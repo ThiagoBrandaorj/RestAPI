@@ -1,10 +1,4 @@
-# Trabalho-ED-AP1 e AP2
-
-## Integrantes do grupo
-   * Gabriel Mendes
-   * João Pedro Menezes
-   * Thiago Corrêa Brandão
-   * Vitor Farani
+# RESTAPI
 
 ## Funcionalidades do Sistema
 ### Adicionar um Novo Produto:
